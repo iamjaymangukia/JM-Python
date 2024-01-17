@@ -1,3 +1,3 @@
 # JM-Python
 
-I have some python codes here....!
+I have written some python projects...!
